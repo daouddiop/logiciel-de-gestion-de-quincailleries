@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Cette version est la version initiale de gestion de quincaillerie avec toute les fonctionnalités de base.",
-  "sha256":"ad7a58cb8e8fff1586059fe5b352b9567b2fcda9cff96dbfa77035c7b793b13f",
-  "download_url": "https://github.com/daouddiop/logiciel-de-gestion-de-quincailleries/releases/download/v1.1.0/QuincaillerieDemo_Setup_1.1.0.exe"
+  "version": "1.1.1",
+  "notes": "Cette version est la version initiale de gestion de quincaillerie avec toute les fonctionnalités de base necessaire à son bon focntionnement.",
+  "sha256":"38753253cb4cefb0dd7a441e8147245f7e1c30227c35be7003e3944f3e971c04",
+  "download_url": "https://github.com/daouddiop/logiciel-de-gestion-de-quincailleries/releases/download/v1.1.0/QuincaillerieDemo_Setup_1.1.1.exe"
 }
