@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.1",
   "notes": "Nouvelle version avec la modification du module Fournisseur et une sur la stabilité et la sécurité de l'application",
   "sha256":"36c92c1982ce1691b92f5207cbf1ad062974087fe75d37a028996df6df210341",
   "download_url": "https://github.com/daouddiop/logiciel-de-gestion-de-quincailleries/releases/download/v1.2.1/QuincaillerieDemo_Setup_1.2.1.exe"
